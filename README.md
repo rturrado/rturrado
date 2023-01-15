@@ -1,4 +1,4 @@
-Welcome to my GitHub site!
+Welcome to my GitHub site! 👋
 
 Most of the repositories you'll find here are just forks. However, a few of them are projects of my own.
 
@@ -16,4 +16,4 @@ I'm also interested in coroutines and how they can be helpful in certain situati
 
 ## Before C++11
 
-[rubik]() ![image](https://user-images.githubusercontent.com/68099809/212564223-9691fd51-c1b5-4604-97cc-e7f98b3a65c7.png) and [snooker]() 🎱 are a couple of projects from another span of a few months when I was also unemployed, back in 2008. They use `OpenGL` for rendering, and `autotools` as build system.
+[rubik](https://github.com/rturrado/rubik.git) and [snooker](https://github.com/rturrado/snooker.git) are a couple of projects from another span of a few months when I was also unemployed, back in 2008. They use `OpenGL` for rendering, and `autotools` as build system.
