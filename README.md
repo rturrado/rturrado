@@ -2,7 +2,7 @@ Hola! This is a summary of what you can find in some of the projects of this rep
 
 ## C++
 
-### C++11/14/17/20
+### Modern C++ ecosystem
 
 - [the_modern_cpp_challenge](https://github.com/rturrado/the_modern_cpp_challenge):
   - Libraries: `fmt`, `range-v3`.
@@ -14,10 +14,10 @@ Hola! This is a summary of what you can find in some of the projects of this rep
   - Code coverage: `gcov`, `codecov`.
   - `docker`.
 
-### Ranges (C++23)
+### Ranges
 - [aoc_2022](https://github.com/rturrado/aoc_2022): examples using Eric Niebler's `range-v3`.
 
-### Coroutines (C++26)
+### Coroutines
 - [coro](https://github.com/rturrado/coro): examples using the reference implementation of the `std::generator` proposal, as well as `boost::asio` coroutines.
 - [word_converter](https://github.com/rturrado/word_converter): example of a tokenizer for a small language parser as a coroutine.
 
