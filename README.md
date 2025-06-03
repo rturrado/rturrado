@@ -25,3 +25,7 @@ Hola! This is a summary of what you can find in some of the projects of this rep
 
 - [the_modern_cpp_challenge](https://github.com/rturrado/the_modern_cpp_challenge):  `FetchContent` and `vcpkg`.
 - [aoc_2022](https://github.com/rturrado/aoc_2022): `conan`.
+
+## OCaml
+
+- [arkanoid](https://github.com/rturrado/arkanoid): SDL, arcade game.
