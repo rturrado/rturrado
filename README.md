@@ -1,10 +1,14 @@
-You've found it! 🕺💃 The Holy Grail of GitHub! 🏺
+You've found it, Arthur! GitHub's Holy Grail! 🏺
 
-Nah. Mostly open-source contributions (quantum compilation ⚛️) and personal projects (modern C++ <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="14" alt="C++"/>).
+Nah. Mostly
+<span style="font-size: 24px; vertical-align: middle; margin-left: 4px;">⚛️</span>
+<span style="vertical-align: middle;">open-source contributions (quantum compilation) and</span>
+<img src="assets/c-plus-plus.png" height="30" alt="C++" style="vertical-align: middle; margin-left: 4px;"/>
+<span style="vertical-align: middle;">personal projects (modern C++).</span>
 
 ## Open-source contributions
 
-### [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst)
+### [PennyLane / Catalyst](https://github.com/PennyLaneAI/catalyst)
 
 Xanadu's quantum compiler, built on LLVM/MLIR.
 
@@ -16,7 +20,7 @@ Xanadu's quantum compiler, built on LLVM/MLIR.
 - Refactored Catalyst pass registering and unified compilation pipelines to a single source of truth.
 - Added support for commuting `P(π/2)` past non-Clifford PPR gates in the quantum optimization pipeline.
 
-### [PennyLaneAI/jeff-mlir](https://github.com/PennyLaneAI/jeff-mlir)
+### [PennyLane / Jeff MLIR](https://github.com/PennyLaneAI/jeff-mlir)
 
 MLIR dialect for `jeff`, an interchange format for quantum compilers.
 
@@ -25,7 +29,7 @@ MLIR dialect for `jeff`, an interchange format for quantum compilers.
 
 - Implemented parse functions for SCF operations.
 
-### [munich-quantum-toolkit/core](https://github.com/munich-quantum-toolkit/core)
+### [Munich Quantum Toolkit / Core](https://github.com/munich-quantum-toolkit/core)
 
 The backbone of the Munich Quantum Toolkit (MQT).
 
@@ -35,7 +39,7 @@ The backbone of the Munich Quantum Toolkit (MQT).
 
 - Added QIR program format support to the DDSIM QDMI device.
 
-### [llvm/llvm-project](https://github.com/llvm/llvm-project)
+### [LLVM / LLVM project](https://github.com/llvm/llvm-project)
 
 Upstream LLVM / Clang.
 
@@ -48,7 +52,7 @@ Upstream LLVM / Clang.
 
 ## Personal projects
 
-### [the_modern_cpp_challenge](https://github.com/rturrado/the_modern_cpp_challenge)
+### [The Modern C++ Challenge](https://github.com/rturrado/the_modern_cpp_challenge)
 100 modern C++ programming problems; including tests, benchmarks, sanitizers, coverage, CI, and Docker delivery.
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
@@ -64,7 +68,7 @@ Upstream LLVM / Clang.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
-### [coro](https://github.com/rturrado/coro), [word_converter](https://github.com/rturrado/word_converter)
+### [Coro](https://github.com/rturrado/coro), [Word converter](https://github.com/rturrado/word_converter)
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
 ![Coroutines](https://img.shields.io/badge/Coroutines-00599C?logoColor=white)
@@ -72,7 +76,7 @@ Upstream LLVM / Clang.
 
 Examples using `std::generator` proposal and `boost::asio` coroutines; and a coroutine-based tokenizer.
 
-### [aoc_2022](https://github.com/rturrado/aoc_2022), [knecht4](https://github.com/rturrado/knecht4), [zorita](https://github.com/rturrado/zorita)
+### [Advent of Code 2022](https://github.com/rturrado/aoc_2022), [Knecht4](https://github.com/rturrado/knecht4), [Zorita](https://github.com/rturrado/zorita)
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)
@@ -80,9 +84,9 @@ Examples using `std::generator` proposal and `boost::asio` coroutines; and a cor
 ![range-v3](https://img.shields.io/badge/range--v3-555?logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-Advent of Code 2022, a Connect 4 game implementation, and a RISC machine implementation.
+Christmas (and elves) -themed puzzles, a Connect 4 game, and a RISC machine.
 
-### [arkanoid](https://github.com/rturrado/arkanoid)
+### [Arkanoid](https://github.com/rturrado/arkanoid)
 Ye olde arcade game.
 
 ![OCaml](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=white)
