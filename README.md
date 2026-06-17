@@ -1,6 +1,6 @@
-You've found it, Arthur! 🏺 GitHub's Holy Grail!
+You've found it, Arthur! 🏺&nbsp;GitHub's Holy Grail!
 
-Nah. Mostly <span style="font-size: 24px;">⚛️&nbsp;</span>open-source contributions (quantum compilation) and <img src="https://raw.githubusercontent.com/rturrado/rturrado/main/assets/c-plus-plus.png" height="24" align="center" alt="C++"/> personal projects (modern C++).
+Nah. Mostly <span style="font-size: 24px;">⚛️&nbsp;</span>open-source contributions (quantum compilation) and <img src="https://raw.githubusercontent.com/rturrado/rturrado/main/assets/c-plus-plus.png" height="24" align="center" alt="C++"/>&nbsp;personal projects (modern C++).
 
 ## Open-source contributions
 
@@ -49,7 +49,6 @@ Upstream LLVM / Clang.
 ## Personal projects
 
 ### [The Modern C++ Challenge](https://github.com/rturrado/the_modern_cpp_challenge)
-100 modern C++ programming problems; including tests, benchmarks, sanitizers, coverage, CI, and Docker delivery.
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)
@@ -64,7 +63,9 @@ Upstream LLVM / Clang.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
-### [coro](https://github.com/rturrado/coro), [word_converter](https://github.com/rturrado/word_converter)
+100 modern C++ programming problems; including tests, benchmarks, sanitizers, coverage, CI, and Docker delivery.
+
+### [Coro](https://github.com/rturrado/coro), [Word converter](https://github.com/rturrado/word_converter)
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
 ![Coroutines](https://img.shields.io/badge/Coroutines-00599C?logoColor=white)
@@ -72,7 +73,7 @@ Upstream LLVM / Clang.
 
 Examples using `std::generator` proposal and `boost::asio` coroutines; and a coroutine-based tokenizer.
 
-### [aoc_2022](https://github.com/rturrado/aoc_2022), [knecht4](https://github.com/rturrado/knecht4), [zorita](https://github.com/rturrado/zorita)
+### [Advent of Code 2022](https://github.com/rturrado/aoc_2022), [Knecht4](https://github.com/rturrado/knecht4), [Zorita](https://github.com/rturrado/zorita)
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)
@@ -80,13 +81,14 @@ Examples using `std::generator` proposal and `boost::asio` coroutines; and a cor
 ![range-v3](https://img.shields.io/badge/range--v3-555?logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-Advent of Code 2022, a Connect 4 game implementation, and a RISC machine implementation.
+Christmas (and elves) -themed programming puzzles, a Connect 4 game, and a RISC machine implementation.
 
-### [arkanoid](https://github.com/rturrado/arkanoid)
-Ye olde arcade game.
+### [Arkanoid](https://github.com/rturrado/arkanoid)
 
 ![OCaml](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=white)
 ![SDL](https://img.shields.io/badge/SDL-173354?logoColor=white)
+
+Ye olde arcade game.
 
 ## Achievements
 
