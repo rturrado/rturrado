@@ -68,7 +68,7 @@ Upstream LLVM / Clang.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
-### [Coro](https://github.com/rturrado/coro), [Word converter](https://github.com/rturrado/word_converter)
+### [coro](https://github.com/rturrado/coro), [word_converter](https://github.com/rturrado/word_converter)
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
 ![Coroutines](https://img.shields.io/badge/Coroutines-00599C?logoColor=white)
@@ -76,7 +76,7 @@ Upstream LLVM / Clang.
 
 Examples using `std::generator` proposal and `boost::asio` coroutines; and a coroutine-based tokenizer.
 
-### [Advent of Code 2022](https://github.com/rturrado/aoc_2022), [Knecht4](https://github.com/rturrado/knecht4), [Zorita](https://github.com/rturrado/zorita)
+### [aoc_2022](https://github.com/rturrado/aoc_2022), [knecht4](https://github.com/rturrado/knecht4), [zorita](https://github.com/rturrado/zorita)
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)
@@ -84,9 +84,9 @@ Examples using `std::generator` proposal and `boost::asio` coroutines; and a cor
 ![range-v3](https://img.shields.io/badge/range--v3-555?logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-Christmas (and elves) -themed puzzles, a Connect 4 game, and a RISC machine.
+Advent of Code 2022, a Connect 4 game implementation, and a RISC machine implementation.
 
-### [Arkanoid](https://github.com/rturrado/arkanoid)
+### [arkanoid](https://github.com/rturrado/arkanoid)
 Ye olde arcade game.
 
 ![OCaml](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=white)
