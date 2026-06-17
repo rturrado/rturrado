@@ -1,8 +1,10 @@
 You've found it, Arthur! GitHub's Holy Grail! 🏺
 
+<p>
 Nah. Mostly
-<span style="font-size: 24px;">&nbsp;⚛️&nbsp;</span>open-source contributions (quantum compilation) and
-<img src="https://raw.githubusercontent.com/rturrado/rturrado/main/assets/c-plus-plus.png" height="22" align="center" alt="C++"/> personal projects (modern C++).
+<span style="font-size: 24px;">⚛️&nbsp;</span>open-source contributions (quantum compilation) and
+<img src="https://raw.githubusercontent.com/rturrado/rturrado/main/assets/c-plus-plus.png" height="24" align="center" alt="C++"/> personal projects (modern C++).
+</p>
 
 ## Open-source contributions
 
