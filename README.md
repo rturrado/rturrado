@@ -1,10 +1,6 @@
-<p>
 You've found it, Arthur! GitHub's Holy Grail! 🏺
 
-Nah. Mostly
-<span style="font-size: 24px;">⚛️&nbsp;</span>open-source contributions (quantum compilation) and
-<img src="https://raw.githubusercontent.com/rturrado/rturrado/main/assets/c-plus-plus.png" height="24" align="center" alt="C++"/> personal projects (modern C++).
-</p>
+Nah. Mostly <span style="font-size: 24px;">⚛️&nbsp;</span>open-source contributions (quantum compilation) and <img src="https://raw.githubusercontent.com/rturrado/rturrado/main/assets/c-plus-plus.png" height="24" align="center" alt="C++"/> personal projects (modern C++).
 
 ## Open-source contributions
 
@@ -16,7 +12,7 @@ Xanadu's quantum compiler, built on LLVM/MLIR.
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![LLVM](https://img.shields.io/badge/LLVM-262D3A?logo=llvm&logoColor=white)
 ![MLIR](https://img.shields.io/badge/MLIR-262D3A?logoColor=white)
- 
+
 - Refactored Catalyst pass registering and unified compilation pipelines to a single source of truth.
 - Added support for commuting `P(π/2)` past non-Clifford PPR gates in the quantum optimization pipeline.
 
@@ -95,12 +91,12 @@ Ye olde arcade game.
 ## Achievements
 
 <a href="https://pennylane.ai/challenges/events/unitaryhack-2026">
-  <img src="assets/pennylane-challenges-unitaryhack-2026-badge.png" alt="unitaryhack 2026" width="140"/>
+  <img src="https://raw.githubusercontent.com/rturrado/rturrado/main/assets/pennylane-challenges-unitaryhack-2026-badge.png" alt="unitaryhack 2026" width="140"/>
 </a>
 
 ## Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rturrado&layout=compact&hide_border=true&langs_count=4" height="140" />         
-  <img src="https://github-readme-stats.vercel.app/api?username=rturrado&show_icons=true&hide_border=true&count_private=true&custom_title=GitHub" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rturrado&layout=compact&hide_border=true&langs_count=4" height="140" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rturrado&show_icons=true&hide_border=true&count_private=true&custom_title=GitHub" height="140" alt="GitHub"/>
 </p>
