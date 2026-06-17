@@ -1,31 +1,102 @@
-Hola! This is a summary of what you can find in some of the projects of this repository.
+You've found it! 🕺💃 The Holy Grail of GitHub! 🏺
 
-## C++
+Nah. Mostly open-source contributions (quantum compilation ⚛️) and personal projects (modern C++ <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="14" alt="C++"/>).
 
-### Modern C++ ecosystem
+## Open-source contributions
 
-- [the_modern_cpp_challenge](https://github.com/rturrado/the_modern_cpp_challenge):
-  - Libraries: `fmt`, `range-v3`.
-  - Unit testing: `gtest`.
-  - Benchmarking: `Google benchmark`.
-  - Build systems: `CMake`.
-  - Continuous integration: `GitHub Actions`.
-  - Sanitizers: `address sanitizer (ASAN)`.
-  - Code coverage: `gcov`, `codecov`.
-  - `docker`.
+### [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst)
 
-### Ranges
-- [aoc_2022](https://github.com/rturrado/aoc_2022): examples using Eric Niebler's `range-v3`.
+Xanadu's quantum compiler, built on LLVM/MLIR.
 
-### Coroutines
-- [coro](https://github.com/rturrado/coro): examples using the reference implementation of the `std::generator` proposal, as well as `boost::asio` coroutines.
-- [word_converter](https://github.com/rturrado/word_converter): example of a tokenizer for a small language parser as a coroutine.
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![LLVM](https://img.shields.io/badge/LLVM-262D3A?logo=llvm&logoColor=white)
+![MLIR](https://img.shields.io/badge/MLIR-262D3A?logoColor=white)
+ 
+- Refactored Catalyst pass registering and unified compilation pipelines to a single source of truth.
+- Added support for commuting `P(π/2)` past non-Clifford PPR gates in the quantum optimization pipeline.
 
-### Package management
+### [PennyLaneAI/jeff-mlir](https://github.com/PennyLaneAI/jeff-mlir)
 
-- [the_modern_cpp_challenge](https://github.com/rturrado/the_modern_cpp_challenge):  `FetchContent` and `vcpkg`.
-- [aoc_2022](https://github.com/rturrado/aoc_2022): `conan`.
+MLIR dialect for `jeff`, an interchange format for quantum compilers.
 
-## OCaml
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
+![MLIR](https://img.shields.io/badge/MLIR-262D3A?logoColor=white)
 
-- [arkanoid](https://github.com/rturrado/arkanoid): SDL, arcade game.
+- Implemented parse functions for SCF operations.
+
+### [munich-quantum-toolkit/core](https://github.com/munich-quantum-toolkit/core)
+
+The backbone of the Munich Quantum Toolkit (MQT).
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
+![QIR](https://img.shields.io/badge/QIR-5C2D91?logoColor=white)
+![QDMI](https://img.shields.io/badge/QDMI-5C2D91?logoColor=white)
+
+- Added QIR program format support to the DDSIM QDMI device.
+
+### [llvm/llvm-project](https://github.com/llvm/llvm-project)
+
+Upstream LLVM / Clang.
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
+![Clang](https://img.shields.io/badge/Clang-262D3A?logo=llvm&logoColor=white)
+![CIR](https://img.shields.io/badge/CIR-262D3A?logoColor=white)
+
+- Added AVX512 `KTEST`/`KORTEST` intrinsics to constexpr evaluation in Clang's `VectorExprEvaluator`.
+- Added `cpuid`/`cpuidex` support for CIR on x86.
+
+## Personal projects
+
+### [the_modern_cpp_challenge](https://github.com/rturrado/the_modern_cpp_challenge)
+100 modern C++ programming problems; including tests, benchmarks, sanitizers, coverage, CI, and Docker delivery.
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)
+![FetchContent](https://img.shields.io/badge/FetchContent-064F8C?logoColor=white)
+![vcpkg](https://img.shields.io/badge/vcpkg-0078D4?logoColor=white)
+![GoogleTest](https://img.shields.io/badge/GoogleTest-4285F4?logo=google&logoColor=white)
+![GoogleBenchmark](https://img.shields.io/badge/Google_Benchmark-4285F4?logo=google&logoColor=white)
+![fmt](https://img.shields.io/badge/fmt-555?logoColor=white)
+![range-v3](https://img.shields.io/badge/range--v3-555?logoColor=white)
+![ASan](https://img.shields.io/badge/ASan-E34F26?logoColor=white)
+![codecov](https://img.shields.io/badge/codecov-F01F7A?logo=codecov&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+
+### [coro](https://github.com/rturrado/coro), [word_converter](https://github.com/rturrado/word_converter)
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
+![Coroutines](https://img.shields.io/badge/Coroutines-00599C?logoColor=white)
+![Boost.Asio](https://img.shields.io/badge/Boost.Asio-F7901E?logo=boost&logoColor=white)
+
+Examples using `std::generator` proposal and `boost::asio` coroutines; and a coroutine-based tokenizer.
+
+### [aoc_2022](https://github.com/rturrado/aoc_2022), [knecht4](https://github.com/rturrado/knecht4), [zorita](https://github.com/rturrado/zorita)
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)
+![Conan](https://img.shields.io/badge/Conan-6699CB?logo=conan&logoColor=white)
+![range-v3](https://img.shields.io/badge/range--v3-555?logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+Advent of Code 2022, a Connect 4 game implementation, and a RISC machine implementation.
+
+### [arkanoid](https://github.com/rturrado/arkanoid)
+Ye olde arcade game.
+
+![OCaml](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=white)
+![SDL](https://img.shields.io/badge/SDL-173354?logoColor=white)
+
+## Achievements
+
+<a href="https://pennylane.ai/challenges/events/unitaryhack-2026">
+  <img src="assets/pennylane-challenges-unitaryhack-2026-badge.png" alt="unitaryhack 2026" width="140"/>
+</a>
+
+## Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rturrado&layout=compact&hide_border=true&langs_count=4" height="140" />         
+  <img src="https://github-readme-stats.vercel.app/api?username=rturrado&show_icons=true&hide_border=true&count_private=true&custom_title=GitHub" height="140" />
+</p>
