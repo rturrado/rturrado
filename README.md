@@ -1,6 +1,6 @@
 You've found it, Arthur! 🏺&nbsp;GitHub's Holy Grail!
 
-Nah. Mostly <span style="font-size: 24px;">⚛️&nbsp;</span>open-source contributions (quantum compilation) and <img src="https://raw.githubusercontent.com/rturrado/rturrado/main/assets/c-plus-plus.png" height="24" align="center" alt="C++"/>&nbsp;personal projects (modern C++).
+Nah. Mostly <img src="https://api.iconify.design/mdi/atom.svg?color=%235C2D91" height="24" align="center" alt="atom"/>&nbsp;open-source contributions (quantum compilation) and <img src="https://api.iconify.design/logos/c-plusplus.svg" height="24" align="center" alt="C++"/>&nbsp;personal projects (modern C++).
 
 ## Open-source contributions
 
