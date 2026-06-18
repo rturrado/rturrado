@@ -1,4 +1,4 @@
-You've found it, Arthur! 🏺& GitHub's Holy Grail!
+You've found it, Arthur! 🏺 GitHub's Holy Grail!
 
 Nah. Mostly&nbsp;<img src="https://api.iconify.design/mdi/atom.svg?color=%235C2D91" height="30" align="center" alt="atom"/>&hairsp;open-source contributions (quantum compilation) and&ensp;<img src="https://api.iconify.design/logos/c-plusplus.svg" height="24" align="center" alt="C++"/>&nbsp;personal projects (modern C++).
 
