@@ -1,6 +1,6 @@
 You've found it, Arthur! 🏺 GitHub's Holy Grail!
 
-Nah. Mostly&ensp;<img src="raw.githubusercontent.com/rturrado/rturrado/main/assets/quantum_gate.png" height="30" align="center" alt="quantum gate"/>&thinsp;open-source contributions (quantum compilation) and&ensp;<img src="https://api.iconify.design/logos/c-plusplus.svg" height="24" align="center" alt="C++"/>&nbsp;personal projects (modern C++).
+Nah. Mostly&ensp;<img src="https://raw.githubusercontent.com/rturrado/rturrado/main/assets/quantum_gate.png" height="30" align="center" alt="quantum gate"/>&thinsp;open-source contributions (quantum compilation) and&ensp;<img src="https://api.iconify.design/logos/c-plusplus.svg" height="24" align="center" alt="C++"/>&nbsp;personal projects (modern C++).
 
 ## Open-source contributions
 
