@@ -1,10 +1,10 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1654657605/59534/cuteblob.gif?1654657605" width="30"/> Hello there! I'm Roberto Turrado.</h1>
+<h1>LOAD "<img src="https://emojis.slackmojis.com/emojis/images/1654657605/59534/cuteblob.gif?1654657605" width="30"/>" ⏎</h1>
 
 <a href="https://www.toptal.com/developers/resume/roberto-turrado-camblor#VaWdWj">
 <img src="assets/toptal-top-3-badge.png" alt="Toptal Top 3% Talent" height="140" align="left" hspace="20"/>
 </a>
 
-A C++ software engineer from Spain.
+Hello there! I'm Roberto, a C++ software engineer from Spain.
 
 Passionate about compilers and quantum computing.
 
@@ -26,12 +26,12 @@ Open to freelance work via Toptal.
 
 <tr>
 <td valign="top">
-<b><a href="https://github.com/PennyLaneAI/catalyst">PennyLane / Catalyst</a></b> &emsp;
+<b><a href="https://github.com/PennyLaneAI/catalyst">PennyLane / Catalyst</a></b><br>
+Xanadu's quantum compiler, built on LLVM/MLIR.<br>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white" alt="C++" align="absmiddle"/>
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" align="absmiddle"/>
 <img src="https://img.shields.io/badge/LLVM-262D3A?logo=llvm&logoColor=white" alt="LLVM" align="absmiddle"/>
-<img src="https://img.shields.io/badge/MLIR-262D3A?logoColor=white" alt="MLIR" align="absmiddle"/><br>
-Xanadu's quantum compiler, built on LLVM/MLIR.
+<img src="https://img.shields.io/badge/MLIR-262D3A?logoColor=white" alt="MLIR" align="absmiddle"/>
 </td>
 <td valign="top">
 <a href="https://github.com/PennyLaneAI/catalyst/pull/2259">Unify compilation pipelines to a single source of truth</a> · Apr 2026<br>
@@ -49,10 +49,10 @@ Xanadu's quantum compiler, built on LLVM/MLIR.
 
 <tr>
 <td valign="top">
-<b><a href="https://github.com/PennyLaneAI/jeff-mlir">PennyLane / Jeff MLIR</a></b> &emsp;
+<b><a href="https://github.com/PennyLaneAI/jeff-mlir">PennyLane / Jeff MLIR</a></b><br>
+MLIR dialect for <code>jeff</code>, an interchange format for quantum compilers.<br>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white" alt="C++" align="absmiddle"/>
-<img src="https://img.shields.io/badge/MLIR-262D3A?logoColor=white" alt="MLIR" align="absmiddle"/><br>
-MLIR dialect for <code>jeff</code>, an interchange format for quantum compilers.
+<img src="https://img.shields.io/badge/MLIR-262D3A?logoColor=white" alt="MLIR" align="absmiddle"/>
 </td>
 <td valign="top">
 <a href="https://github.com/PennyLaneAI/jeff-mlir/pull/20">Implement parse functions of SCF operations</a> · Jun 2026
@@ -61,10 +61,10 @@ MLIR dialect for <code>jeff</code>, an interchange format for quantum compilers.
 
 <tr>
 <td valign="top">
-<b><a href="https://github.com/munich-quantum-toolkit/core">Munich Quantum Toolkit / Core</a></b> &emsp;
+<b><a href="https://github.com/munich-quantum-toolkit/core">Munich Quantum Toolkit / Core</a></b><br>
+The backbone of the Munich Quantum Toolkit (MQT).<br>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white" alt="C++" align="absmiddle"/>
-<img src="https://img.shields.io/badge/QIR-5C2D91?logoColor=white" alt="QIR" align="absmiddle"/><br>
-The backbone of the Munich Quantum Toolkit (MQT).
+<img src="https://img.shields.io/badge/QIR-5C2D91?logoColor=white" alt="QIR" align="absmiddle"/>
 </td>
 <td valign="top">
 <a href="https://github.com/munich-quantum-toolkit/core/pull/1956">Extend Layout API for partial injections</a> · Aug 2026<br>
@@ -77,12 +77,12 @@ The backbone of the Munich Quantum Toolkit (MQT).
 
 <tr>
 <td valign="top">
-<b><a href="https://github.com/llvm/llvm-project">LLVM / LLVM project</a></b> &emsp;
+<b><a href="https://github.com/llvm/llvm-project">LLVM / LLVM project</a></b><br>
+Upstream LLVM / Clang.<br>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white" alt="C++" align="absmiddle"/>
 <img src="https://img.shields.io/badge/LLVM-262D3A?logo=llvm&logoColor=white" alt="LLVM" align="absmiddle"/>
 <img src="https://img.shields.io/badge/MLIR-262D3A?logoColor=white" alt="MLIR" align="absmiddle"/>
-<img src="https://img.shields.io/badge/CIR-262D3A?logoColor=white" alt="CIR" align="absmiddle"/><br>
-Upstream LLVM / Clang.
+<img src="https://img.shields.io/badge/CIR-262D3A?logoColor=white" alt="CIR" align="absmiddle"/>
 </td>
 <td valign="top">
 <a href="https://github.com/llvm/llvm-project/pull/173197">Add <code>cpuid</code>/<code>cpuidex</code> support for CIR on x86</a> · Jan 2026<br>
@@ -98,7 +98,8 @@ Upstream LLVM / Clang.
 
 <tr>
 <td valign="top">
-<b><a href="https://github.com/rturrado/the_modern_cpp_challenge">The Modern C++ Challenge</a></b> &emsp;
+<b><a href="https://github.com/rturrado/the_modern_cpp_challenge">The Modern C++ Challenge</a></b><br>
+100 modern C++ programming problems; including tests, benchmarks, sanitizers, coverage, CI, and Docker delivery.<br>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white" alt="C++" align="absmiddle"/>
 <img src="https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white" alt="CMake" align="absmiddle"/>
 <img src="https://img.shields.io/badge/FetchContent-064F8C?logoColor=white" alt="FetchContent" align="absmiddle"/>
@@ -110,39 +111,38 @@ Upstream LLVM / Clang.
 <img src="https://img.shields.io/badge/ASan-E34F26?logoColor=white" alt="ASan" align="absmiddle"/>
 <img src="https://img.shields.io/badge/codecov-F01F7A?logo=codecov&logoColor=white" alt="codecov" align="absmiddle"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" align="absmiddle"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions" align="absmiddle"/><br>
-100 modern C++ programming problems; including tests, benchmarks, sanitizers, coverage, CI, and Docker delivery.
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions" align="absmiddle"/>
 </td>
 </tr>
 
 <tr>
 <td valign="top">
-<b><a href="https://github.com/rturrado/coro">Coro</a></b>, <b><a href="https://github.com/rturrado/word_converter">Word converter</a></b> &emsp;
+<b><a href="https://github.com/rturrado/coro">Coro</a></b>, <b><a href="https://github.com/rturrado/word_converter">Word converter</a></b><br>
+Examples using <code>std::generator</code> proposal and <code>boost::asio</code> coroutines; and a coroutine-based tokenizer.<br>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white" alt="C++" align="absmiddle"/>
 <img src="https://img.shields.io/badge/Coroutines-00599C?logoColor=white" alt="Coroutines" align="absmiddle"/>
-<img src="https://img.shields.io/badge/Boost.Asio-F7901E?logo=boost&logoColor=white" alt="Boost.Asio" align="absmiddle"/><br>
-Examples using <code>std::generator</code> proposal and <code>boost::asio</code> coroutines; and a coroutine-based tokenizer.
+<img src="https://img.shields.io/badge/Boost.Asio-F7901E?logo=boost&logoColor=white" alt="Boost.Asio" align="absmiddle"/>
 </td>
 </tr>
 
 <tr>
 <td valign="top">
-<b><a href="https://github.com/rturrado/aoc_2022">Advent of Code 2022</a></b>, <b><a href="https://github.com/rturrado/knecht4">Knecht4</a></b>, <b><a href="https://github.com/rturrado/zorita">Zorita</a></b> &emsp;
+<b><a href="https://github.com/rturrado/aoc_2022">Advent of Code 2022</a></b>, <b><a href="https://github.com/rturrado/knecht4">Knecht4</a></b>, <b><a href="https://github.com/rturrado/zorita">Zorita</a></b><br>
+Christmas (and elves) -themed programming puzzles, a Connect 4 game, and a RISC machine implementation.<br>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white" alt="C++" align="absmiddle"/>
 <img src="https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white" alt="CMake" align="absmiddle"/>
 <img src="https://img.shields.io/badge/Conan-6699CB?logo=conan&logoColor=white" alt="Conan" align="absmiddle"/>
 <img src="https://img.shields.io/badge/range--v3-555?logoColor=white" alt="range-v3" align="absmiddle"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" align="absmiddle"/><br>
-Christmas (and elves) -themed programming puzzles, a Connect 4 game, and a RISC machine implementation.
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" align="absmiddle"/>
 </td>
 </tr>
 
 <tr>
 <td valign="top">
-<b><a href="https://github.com/rturrado/arkanoid">Arkanoid</a></b> &emsp;
+<b><a href="https://github.com/rturrado/arkanoid">Arkanoid</a></b><br>
+Ye olde arcade game.<br>
 <img src="https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=white" alt="OCaml" align="absmiddle"/>
-<img src="https://img.shields.io/badge/SDL-173354?logoColor=white" alt="SDL" align="absmiddle"/><br>
-Ye olde arcade game.
+<img src="https://img.shields.io/badge/SDL-173354?logoColor=white" alt="SDL" align="absmiddle"/>
 </td>
 </tr>
 
