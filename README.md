@@ -4,9 +4,9 @@
 <img src="assets/toptal-top-3-badge.png" alt="Toptal Top 3% Talent" height="140" align="left" hspace="20"/>
 </a>
 
-Hello there! I'm Roberto, a C++ software engineer from Spain.
+How it started: tape games, Imagina demos, Wordperfect.
 
-Passionate about compilers and quantum computing.
+How it's going: quantum compilers, Claude Code.
 
 Open to freelance work via Toptal.
 
@@ -102,16 +102,14 @@ Upstream LLVM / Clang.<br>
 100 modern C++ programming problems; including tests, benchmarks, sanitizers, coverage, CI, and Docker delivery.<br>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white" alt="C++" align="absmiddle"/>
 <img src="https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white" alt="CMake" align="absmiddle"/>
-<img src="https://img.shields.io/badge/FetchContent-064F8C?logoColor=white" alt="FetchContent" align="absmiddle"/>
-<img src="https://img.shields.io/badge/vcpkg-0078D4?logoColor=white" alt="vcpkg" align="absmiddle"/>
 <img src="https://img.shields.io/badge/GoogleTest-4285F4?logo=google&logoColor=white" alt="GoogleTest" align="absmiddle"/>
 <img src="https://img.shields.io/badge/Google_Benchmark-4285F4?logo=google&logoColor=white" alt="Google Benchmark" align="absmiddle"/>
 <img src="https://img.shields.io/badge/fmt-555?logoColor=white" alt="fmt" align="absmiddle"/>
 <img src="https://img.shields.io/badge/range--v3-555?logoColor=white" alt="range-v3" align="absmiddle"/>
 <img src="https://img.shields.io/badge/ASan-E34F26?logoColor=white" alt="ASan" align="absmiddle"/>
 <img src="https://img.shields.io/badge/codecov-F01F7A?logo=codecov&logoColor=white" alt="codecov" align="absmiddle"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" align="absmiddle"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions" align="absmiddle"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" align="absmiddle"/>
 </td>
 </tr>
 
@@ -132,7 +130,9 @@ Christmas (and elves) -themed programming puzzles, a Connect 4 game, and a RISC 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white" alt="C++" align="absmiddle"/>
 <img src="https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white" alt="CMake" align="absmiddle"/>
 <img src="https://img.shields.io/badge/Conan-6699CB?logo=conan&logoColor=white" alt="Conan" align="absmiddle"/>
+<img src="https://img.shields.io/badge/fmt-555?logoColor=white" alt="fmt" align="absmiddle"/>
 <img src="https://img.shields.io/badge/range--v3-555?logoColor=white" alt="range-v3" align="absmiddle"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions" align="absmiddle"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" align="absmiddle"/>
 </td>
 </tr>
